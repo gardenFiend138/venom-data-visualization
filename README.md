@@ -60,14 +60,19 @@ This project will have the following files:
 #### Day 2
 * Decide how to parse data receive from API, and how to deal with data that needs to be input manually (uses in medicine, venom classification)
 * Add LD-50 data to the graph (circle size)
-* Style layout, 
+* Style layout
 
 #### Day 3 
 * Add venom type to the graph (color)
 * Add uses in medicine (_____________)
+* Work on styling
 
 #### Day 4
-* Style 
+* Add buttons at top of canvas to filter based on type of animal 
+* Finish styling
+* Finish adding Effects of envenomation, bites/ deaths per year, and proteins
+
 #### Day 5
+* 
 
 ## Bonus Features
