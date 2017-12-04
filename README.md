@@ -35,14 +35,8 @@ For this data visualization, I will be using:
   * HTML5 Canvas for rendering 
   * Webpack for bundling
   
-This project will have the following files:
-* 
-*
-*
-*
+I will be using data from the VenomKB API, and will be receiving data as JSON, but will also rely on data from various other sources which do not have APIs. For these sources, I will make a CSV file and manually transport the required data. 
 
-
-  
 
 ## Implementation Timeline
 
@@ -54,17 +48,18 @@ This project will have the following files:
 * Get D3 setup and running
 * Continue to research and become more familiar with D3
 * Get basic backend written and running
+* Decide how to parse data receive from API, and how to deal with data that needs to be input manually (uses in medicine, venom classification)
 * Make API requests to VenomKB
-* Use json returned to make basic bubble graph rendering each species by scientific name 
+* Style basic layout
 
 #### Day 2
-* Decide how to parse data receive from API, and how to deal with data that needs to be input manually (uses in medicine, venom classification)
+* Use json returned to make basic bubble graph rendering each species by scientific name 
 * Add LD-50 data to the graph (circle size)
-* Style layout
+* Finish styling for basic layout
 
 #### Day 3 
 * Add venom type to the graph (color)
-* Add uses in medicine (_____________)
+* Add uses in medicine 
 * Work on styling
 
 #### Day 4
@@ -73,6 +68,5 @@ This project will have the following files:
 * Finish adding Effects of envenomation, bites/ deaths per year, and proteins
 
 #### Day 5
-* 
+* Wrap up loose ends, make sure transitions are smooth and UI is intuitive and responsive
 
-## Bonus Features
