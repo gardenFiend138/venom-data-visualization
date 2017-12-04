@@ -27,6 +27,8 @@ Users will be able to view a bubble map, with each circle representing an indivi
 
 ## Wireframes
 
+![Wireframe](https://github.com/gardenFiend138/venom-data-visualization-wireframes/blob/master/venom-data-wireframes.jpg)
+
 ## Architecture and Technologies
 
 For this data visualization, I will be using:
